@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--enable=C,R,W,E,F"
+    ],
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.linting.enabled": true,
+}
